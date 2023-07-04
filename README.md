@@ -25,6 +25,7 @@
 
 
 ```pip install openai```
+
 ```pip install python-dotenv```
 
 ## Запуск программы
