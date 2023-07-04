@@ -23,17 +23,15 @@
 
 Установите необходимые зависимости, используя pip:
 
-sh
 
-`pip install openai
-pip install python-dotenv` 
+```pip install openai```
+```pip install python-dotenv```
 
 ## Запуск программы
 
 Запустите программу, используя Python 3:
 
-sh
 
-`python main.py` 
+```python main.py```
 
 Используйте эту программу, чтобы автоматически генерировать ключевые точки, заголовки и изображения из введенного вами текста!
